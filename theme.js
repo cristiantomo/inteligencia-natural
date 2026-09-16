@@ -2,7 +2,7 @@
   const key = "in-theme-hank";
   const root = document.documentElement;
   const stored = localStorage.getItem(key);
-  root.setAttribute("data-theme", stored === "dark" ? "dark" : "light");
+  root.setAttribute("data-theme", stored === "light" ? "light" : "dark");
 
   const button = document.getElementById("theme-toggle");
   if (!button) return;

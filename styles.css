@@ -148,10 +148,22 @@ a {
   color: var(--ink-soft);
 }
 
-.byline {
+.byline-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 14px;
   margin-top: 26px;
+}
+
+.byline {
   font-family: "Special Elite", "Courier New", monospace;
   font-size: 15px;
+}
+
+.byline-actions {
+  display: flex;
+  gap: 6px;
 }
 
 .byline strong {
