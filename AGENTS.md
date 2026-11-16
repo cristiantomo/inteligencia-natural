@@ -10,7 +10,7 @@ Tesis: lo humano que un modelo no puede entrenar (juicio, cuerpo, error, agencia
 - Perfiles: [LinkedIn](https://www.linkedin.com/in/cristiantomo/) · [X](https://x.com/cristiantomo). Usar estas URLs en botones nuevos.
 - `articulo.html` — plantilla. No está en el índice; no publicarla.
 - `agencia.html` — Capítulo I, *Agencia en la era de los agentes*.
-- `styles.css`, `theme.js` — estilo mínimo, una columna, Source Serif 4. El tema por defecto es oscuro; el botón lo cambia y se guarda en localStorage.
+- `styles.css` — estilo mínimo, una columna, Source Serif 4, solo colores claros.
 
 ## Voz y forma de cada entrada
 

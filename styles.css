@@ -8,13 +8,6 @@
   --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
-[data-theme="dark"] {
-  --paper: #141413;
-  --ink: #eceae4;
-  --ink-soft: #aaa79f;
-  --line: #2c2c2a;
-}
-
 * {
   box-sizing: border-box;
   margin: 0;
