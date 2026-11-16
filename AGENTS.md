@@ -9,7 +9,7 @@ Tesis: lo humano que un modelo no puede entrenar (juicio, cuerpo, error, agencia
 - `index.html` — portada e índice. Marca: Bogotá. Kicker: Lo que no se entrena. LinkedIn y X van junto al byline, no en el header.
 - Perfiles: [LinkedIn](https://www.linkedin.com/in/cristiantomo/) · [X](https://x.com/cristiantomo). Usar estas URLs en botones nuevos.
 - `articulo.html` — plantilla. No está en el índice; no publicarla.
-- `agencia.html` — Capítulo I, *Saber no basta*.
+- `agencia.html` — Capítulo I, *Agencia en la era de los agentes*.
 - `styles.css`, `theme.js` — estilo (papel/tinta, Anton + Libre Baskerville + Special Elite). El tema por defecto es oscuro; el botón lo cambia y se guarda en localStorage.
 
 ## Voz y forma de cada entrada
