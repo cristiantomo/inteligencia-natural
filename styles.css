@@ -245,7 +245,9 @@ footer {
 .summary {
   margin-top: 28px;
   font-size: 19px;
+  font-style: italic;
   line-height: 1.55;
+  color: var(--ink-soft);
   text-wrap: pretty;
 }
 
